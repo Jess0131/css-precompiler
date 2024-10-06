@@ -135,7 +135,6 @@ footer {
 	a:hover {
 		color: #111111;
 	}
-	/* Q: css specificity */
 	.container {
 		.footer-logo {
 			width: 200px;
@@ -166,12 +165,6 @@ footer {
 			color: #989898;
 		}
 	}
-	// .footer-logo {
-	// 	width: 200px;
-	// 	margin: 20px auto;
-	// 	text-align: center;
-	// 	vertical-align: middle;
-	// }
 }
 
 @media only screen and (min-width: 650px) {
